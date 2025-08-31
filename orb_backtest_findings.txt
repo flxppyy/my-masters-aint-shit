@@ -60,12 +60,13 @@ Trades: 48 | Wins: 13 | Losses: 35 | Winrate: 27.1%
 
 
 backtest suggests best performance of ORB trading strategy for the last 2 months to be:
-stoploss is basically your entry at 1 or 2 points. (basically dont just get filled immediatly from fluctuations).
+stoploss is basically your entry at 1 or 2 points. (just dont get stoplossed immediatly from fluctuations xd).
 takeprofit sits at 93 points up.
 
 Opening candle was red?: You trade, once the bounceback off the opening range low hits 33% the way to the top of the rangebreak.
 Switch if opening candle was green.
 
 outperforms strict ORB by 3x (it will lose you money, no financial advice)
+
 
 

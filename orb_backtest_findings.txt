@@ -1,5 +1,6 @@
 this will lose you money in the long run.
 no financial advice.
+the following information was gathered by overfitting on training data.
 
 0   2025-06-23     short 2025-06-23 09:45:00-04:00  ...      3.0         -6.0    stop
 1   2025-06-24     short 2025-06-24 09:45:00-04:00  ...      3.0         -6.0    stop
@@ -66,4 +67,5 @@ Opening candle was red?: You trade, once the bounceback off the opening range lo
 Switch if opening candle was green.
 
 outperforms strict ORB by 3x (it will lose you money, no financial advice)
+
 

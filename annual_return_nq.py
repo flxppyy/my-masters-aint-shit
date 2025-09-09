@@ -30,4 +30,3 @@ plt.savefig(out_path)
 print(f"Saved chart to: {out_path}")
 
 plt.show()
-
